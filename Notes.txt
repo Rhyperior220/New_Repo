@@ -1,0 +1,8 @@
+I made a virtual envirnment and installed manim library in it:
+    python -m venv manim-env
+Now I activate it:
+    manim-env\Scripts\activate
+Now install Manim inside the virtual environment:
+    pip install manim
+check if it is installed:
+    manim --version
