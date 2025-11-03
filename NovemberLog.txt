@@ -1,0 +1,8 @@
+This will be shome kind of Short Notes for my Coding Journey.
+i am going to start taking the official course by Code Forces by ITMO Academy.
+I will write everything that I will do, and each session will be separated by group of '_'
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________
